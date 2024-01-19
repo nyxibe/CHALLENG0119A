@@ -39,5 +39,6 @@ def build_train_test_sets(data, label_col, train_size):
     
     except Exception as e:
         raise Exception(f'Error while splitting data: {e}')
-
-```
+    
+    
+    
