@@ -1,0 +1,5 @@
+{
+    "git.commandsToLog": [
+        "git remote add origin git@github.com:nyxibe/CHALLENGE_240119.git"
+    ]
+}
